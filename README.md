@@ -1,7 +1,7 @@
-# Adobe Flash SWF & FLV Player Installer
+# Adobe SWF & FLV Player Installer
 
 ## Description
-Adobe Flash SWF &amp; FLW Player Installer for Linux. Not a browser plugin!
+Adobe SWF & FLV Player Installer for Linux. Not a browser plugin!
 
 ## Installation and use
 1. Download [this](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player-Installer/blob/master/installer.sh) script to install and run it!
