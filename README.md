@@ -1,10 +1,10 @@
-# Adobe SWF & FLV Player Installer
+# Adobe SWF & FLV Player
 
 ## Screenshot of player (with game)
 ![](https://i.imgur.com/sSwZpRk.jpg)
 
 ## Description
-Adobe SWF & FLV Player Installer for Linux. Not a browser plugin!
+Adobe SWF & FLV Player for Linux. Not a browser plugin!
 
 ## Installation and use
 1. 
