@@ -7,7 +7,7 @@
 Adobe SWF & FLV Player for Linux. Not a browser plugin!
 
 ## Installation and use
-1. 
+1. Install "Adobe Flash Player"
 ```bash
 git clone https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player && cd Adobe-SWF_FLV-Player && sudo cp swf-player /usr/bin/swf-player
 ```
