@@ -1,5 +1,7 @@
 # Adobe SWF & FLV Player
 
+[![](https://img.shields.io/badge/platform-Linux-orange.svg)](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player)
+
 ## Screenshot of player (with game)
 ![](https://i.imgur.com/sSwZpRk.jpg)
 
