@@ -6,7 +6,8 @@
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
 
 ## Screenshot of player (with game)
-![](https://i.imgur.com/sSwZpRk.jpg)
+
+![](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player/blob/master/screenshot.png?raw=true)
 
 ## Description
 Adobe SWF & FLV Player for Linux. Not a browser plugin!
