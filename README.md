@@ -16,4 +16,4 @@ Adobe SWF & FLV Player for Linux. Not a browser plugin!
 ```bash
 git clone https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player && cd Adobe-SWF_FLV-Player && sudo cp swf-player /usr/bin/swf-player
 ```
-2. In the console, enter the command "swf-player [file_of_swf_or_flv]" (Try running one of my [favorite](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player-Installer/raw/master/X-MEN.swf) flash games :) )
+2. In the console, enter the command "swf-player [file]" (Try running one of my [favorite](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player-Installer/raw/master/X-MEN.swf) flash games :) )
