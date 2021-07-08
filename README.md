@@ -1,6 +1,6 @@
 # Adobe SWF & FLV Player
 
-[![](https://img.shields.io/badge/OS-Linux-orange?logo=linux)](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player)
+[![](https://img.shields.io/badge/OS-Linux-ligthgreen?logo=linux)](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/Adobe-SWF_FLV-Player)](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player/commits/master)
 [![](https://img.shields.io/badge/license-GPLv3-ligthgreen.svg)](LICENSE)
 [![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
