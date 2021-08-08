@@ -5,6 +5,7 @@
 [![](https://img.shields.io/github/stars/Zalexanninev15/Adobe-SWF_FLV-Player.svg)](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player/stargazers)
 [![](https://img.shields.io/github/forks/Zalexanninev15/Adobe-SWF_FLV-Player.svg)](https://github.com/Zalexanninev15/Adobe-SWF_FLV-Player/network/members)
 [![](https://img.shields.io/badge/license-GPLv3-ligthgreen.svg)](LICENSE)
+[![](https://img.shields.io/badge/donate_and_read_news-Boosty-F0672B.svg)](https://boosty.to/maxik-zalexanninev15)
 [![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
 
